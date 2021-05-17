@@ -1,0 +1,7 @@
+Pacote de instalaç para  rodar o  projeto.
+
+npm install --save jquery
+npm install --save @popperjs/core
+npm install bootstrap
+npm install --save vuex
+npm install vue-resource
